@@ -3,10 +3,11 @@ public class Tool : PicupItem
 
     public Tool()
     {
-        public string ItemName = "Tool";
-        public int Rarity = 0;
+        Random generator = new();
+        ItemName = "Tool";
+        Rarity = generator.Next(1, 8);
 
-       
+
     }
 
 }

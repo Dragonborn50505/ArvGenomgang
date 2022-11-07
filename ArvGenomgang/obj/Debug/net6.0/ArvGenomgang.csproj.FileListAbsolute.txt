@@ -1,0 +1,15 @@
+C:\Users\allinggard.vincent\Desktop\Programering\ArvGenomgang\ArvGenomgang\bin\Debug\net6.0\ArvGenomgang.exe
+C:\Users\allinggard.vincent\Desktop\Programering\ArvGenomgang\ArvGenomgang\bin\Debug\net6.0\ArvGenomgang.deps.json
+C:\Users\allinggard.vincent\Desktop\Programering\ArvGenomgang\ArvGenomgang\bin\Debug\net6.0\ArvGenomgang.runtimeconfig.json
+C:\Users\allinggard.vincent\Desktop\Programering\ArvGenomgang\ArvGenomgang\bin\Debug\net6.0\ArvGenomgang.dll
+C:\Users\allinggard.vincent\Desktop\Programering\ArvGenomgang\ArvGenomgang\bin\Debug\net6.0\ArvGenomgang.pdb
+C:\Users\allinggard.vincent\Desktop\Programering\ArvGenomgang\ArvGenomgang\obj\Debug\net6.0\ArvGenomgang.csproj.AssemblyReference.cache
+C:\Users\allinggard.vincent\Desktop\Programering\ArvGenomgang\ArvGenomgang\obj\Debug\net6.0\ArvGenomgang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allinggard.vincent\Desktop\Programering\ArvGenomgang\ArvGenomgang\obj\Debug\net6.0\ArvGenomgang.AssemblyInfoInputs.cache
+C:\Users\allinggard.vincent\Desktop\Programering\ArvGenomgang\ArvGenomgang\obj\Debug\net6.0\ArvGenomgang.AssemblyInfo.cs
+C:\Users\allinggard.vincent\Desktop\Programering\ArvGenomgang\ArvGenomgang\obj\Debug\net6.0\ArvGenomgang.csproj.CoreCompileInputs.cache
+C:\Users\allinggard.vincent\Desktop\Programering\ArvGenomgang\ArvGenomgang\obj\Debug\net6.0\ArvGenomgang.dll
+C:\Users\allinggard.vincent\Desktop\Programering\ArvGenomgang\ArvGenomgang\obj\Debug\net6.0\refint\ArvGenomgang.dll
+C:\Users\allinggard.vincent\Desktop\Programering\ArvGenomgang\ArvGenomgang\obj\Debug\net6.0\ArvGenomgang.pdb
+C:\Users\allinggard.vincent\Desktop\Programering\ArvGenomgang\ArvGenomgang\obj\Debug\net6.0\ArvGenomgang.genruntimeconfig.cache
+C:\Users\allinggard.vincent\Desktop\Programering\ArvGenomgang\ArvGenomgang\obj\Debug\net6.0\ref\ArvGenomgang.dll
